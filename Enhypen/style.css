@@ -1,0 +1,65 @@
+body{
+    background-color:powderblue;
+
+}
+.border{
+    border:solid black 2px;
+    margin-top: 2rem;
+    padding:2rem 2rem;
+    padding-bottom: 0;
+}
+.ul{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    padding:5rem 5rem;
+    padding-top: 0;
+    line-height: 4rem;
+}
+h3{
+    padding-left: 5rem;
+    font-size: 60px;
+    
+}
+.icons{
+    font-size: 5rem;
+    display:flex;
+    gap:7rem;
+    margin-left: 28%;
+    
+}
+#body{
+    border: 2rem skyblue groove;
+}
+.tabletwo{
+    font-size: 2rem;
+    margin-left: 30%;
+}
+.para{
+    font-size: 2rem;
+    text-indent: 15px;
+    text-align: center;
+}
+.name{
+    text-align: center;
+    font-size: 3rem;
+    margin-top: 5rem;
+    color: blue;
+}
+#back{
+    font-size: 3rem;
+    margin-left: 15%;
+    margin-bottom: 2rem;
+}
+#intro{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 5rem;
+    color:blue;
+}
+.container{
+    display:flex;
+    gap:20px;
+}
+.item{
+    text-align: center;
+}
