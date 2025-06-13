@@ -1,0 +1,111 @@
+.intro{
+    background-color: aqua;
+    text-align: center;
+    position:relative;
+    top: 0%;
+    list-style: none;
+    margin-top: 0;
+    padding: 0%;
+
+}
+nav >ul> li{
+    display:inline-block;
+    font-size: 25px;
+    border-right: 100px solid aqua;
+}
+.images{
+    width:450px;
+    height:400px;
+    display:inline-block;
+}
+
+.info{
+    display:block;
+    text-decoration: none;
+    text-align: center;
+    margin-right: 10px;
+    font-size: 20px;
+    list-style: none;
+     background-color: #fff;
+    color: aqua;
+
+}
+
+.welcome{
+    text-align: center;
+    font-size: 20px;
+    background-color: #fff;
+}
+body{
+    margin-top: 0%;
+    background-color: rgba(0, 255, 255, 0.377);
+}
+
+h2{ 
+text-align: center;
+
+}
+
+.images{
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 30px;
+    padding: 40px 20px;
+    flex-wrap: wrap;
+    transform:center;
+
+}
+.contant{
+    text-align: center;
+    color:#fff;
+    font-size: 20px;
+
+}
+.today{
+    text-align: center;
+}
+.flex-container{
+      display: flex;
+gap:20px;
+align-items: center;
+padding-left: 50px;
+    
+}
+
+.flex-container{
+        display: flex;
+gap:20px;
+align-items: center;
+padding-left: 50px;
+
+}
+
+.dessert{
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 30px;
+    padding: 40px 20px;
+    flex-wrap: wrap;
+    transform:center;
+
+}
+#white{
+    background-color: #fff;
+    font-size: 30px;
+    text-align: center;
+    color:aqua;
+    padding:26px 26px;
+    margin:25px 25px;
+}
+#inline{
+    width: 300px;
+    height: 100px;
+}
+
+#emohi{
+    color:#fff;
+    font-size: 38px;
+    font-style: inherit;
+}
